@@ -1,0 +1,3 @@
+User_name :  test-cloud-gackou			
+Password :  amsd_titanic_3
+Console sign-in URL : https://529088276729.signin.aws.amazon.com/console
