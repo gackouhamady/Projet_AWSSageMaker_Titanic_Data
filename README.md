@@ -1,5 +1,26 @@
 # Machine Learning on AWS: Titanic Survivors Prediction
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![AWS](https://img.shields.io/badge/AWS-cloud-orange.svg)](https://aws.amazon.com/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-supported-brightgreen.svg)](https://xgboost.readthedocs.io/)
+[![Boto3](https://img.shields.io/badge/Boto3-supported-blue.svg)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+[![License: Open](https://img.shields.io/badge/license-Open-lightgrey.svg)](#)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
+
+- [Machine Learning on AWS: Titanic Survivors Prediction](#machine-learning-on-aws-titanic-survivors-prediction)
+  - [Contexte du projet](#contexte-du-projet)
+  - [Objectif du projet](#objectif-du-projet)
+  - [Compétences Clés Mises en Œuvre](#compétences-clés-mises-en-œuvre)
+  - [Démarche Technique Détaillée](#démarche-technique-détaillée)
+    - [1. Configuration Initiale AWS](#1-configuration-initiale-aws)
+    - [2. Gestion du stockage avec S3](#2-gestion-du-stockage-avec-s3)
+    - [3. Pré-traitement automatisé via AWS Lambda](#3-pré-traitement-automatisé-via-aws-lambda)
+    - [4. Entraînement Machine Learning avec Amazon SageMaker](#4-entraîne-ment-machine-learning-avec-amazon-sagemaker)
+    - [5. Inférence et Evaluation](#5-inférence-et-evaluation)
+  - [Points Forts du Projet](#points-forts-du-projet)
+  - [Technologies Utilisées](#technologies-utilisées)
+  - [Conclusion](#conclusion)
+
 ## Contexte du projet
 Projet réalisé en trinôme dans le cadre du Master 1 "Machine Learning pour la Science des Données" à l'Université Paris Cité, pour le module **Introduction au Cloud AWS**.
 
